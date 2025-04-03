@@ -12,11 +12,11 @@ PURPOSE: This program is designed to
 */
 
 /*	
-FUNCTION:	Fib
-ARGUMENTS:	global_var
-RETURNS:	integer
-PURPOSE:    recursive function that finds the fibonacci
-            sequence
+FUNCTION:     Fib
+ARGUMENTS:    global_var
+RETURNS:	     integer
+PURPOSE:      recursive function that finds 
+              the fibonacci sequence.
 */
 .globl Fib
 .type Fib,@function
