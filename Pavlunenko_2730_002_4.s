@@ -4,10 +4,8 @@ COURSE:  ECE 2730
 SECTION: 002
 DATE:    02.23.2025
 FILE:    Pavlunenko_2730_002_4.s
-PURPOSE: This program is designed to
-         take three side lengths and return
-         the type of triangle that would have
-         those sides
+PURPOSE: This program converts ascii
+         values to their integer counterparts.
 */
 
 /*	
